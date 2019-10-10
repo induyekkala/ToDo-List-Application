@@ -29,7 +29,10 @@ In this application we create ToDo List of different user Tasks assigned to vari
  User can save the Task and Quit the task. 
 
  
+                                   TODO TASK
 
 ![Test Image 1](https://github.com/induyekkala/ToDo-List-Application/blob/master/ToDo.JPG)
+
+                        TODO APPLICATION CLASS DIAGRAM
 ![Test Image 2](https://github.com/induyekkala/ToDo-List-Application/blob/master/ClassDiagram.jpg)
 
