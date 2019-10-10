@@ -31,5 +31,5 @@ In this application we create ToDo List of different user Tasks assigned to vari
  
 
 ![Test Image 1](https://github.com/induyekkala/ToDo-List-Application/blob/master/ToDo.JPG)
-![Test Image 2](https://github.com/induyekkala/ToDo-List-Application/blob/master/Classdiagram.JPG)
+![Test Image 2](https://github.com/induyekkala/ToDo-List-Application/blob/master/ClassDiagram.jpg)
 
